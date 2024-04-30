@@ -29,7 +29,7 @@ export default {
           status: 'A website that provides information about ship port services which is the largest port operator in Indonesia.',
           tech: 'Codeigniter 3, Bootstrap',
           github: 'null',
-          demo: 'null'
+          demo: 'https://pelindomarine.com/'
         },
         {
           id: 4,
@@ -37,7 +37,7 @@ export default {
           imageUrl: 'selecta',
           status: 'A website that provides information about the history of PT SELECTA, its activities and the latest news about the company.',
           tech: 'Codeigniter 3, Bootstrap',
-          github: 'null',
+          github: 'https://github.com/langgilang/company-profile-selecta.git',
           demo: 'null'
         },
         {
@@ -46,7 +46,7 @@ export default {
           imageUrl: 'eticketselecta',
           status: 'Web-based online ticket booking application. provides information on ticket prices and the latest promos from PT SELECTA.',
           tech: 'Codeigniter 3, Bootstrap',
-          github: 'null',
+          github: 'https://github.com/langgilang/selecta',
           demo: 'null'
         }
       ]
