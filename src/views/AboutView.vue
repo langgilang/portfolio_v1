@@ -81,7 +81,13 @@ export default {
           name: 'Java',
           imageUrl: 'https://competntsystems.com/wp-content/uploads/2023/03/3-11.webp',
           status: 'Intermediate'
-        }
+        },
+        {
+          id: 14,
+          name: 'MySQL',
+          imageUrl: 'https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png',
+          status: 'Database'
+        },
       ],
       tools: [
         {
@@ -104,51 +110,51 @@ export default {
         },
         {
           id: 4,
-          name: 'MySQL',
-          imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968313.png',
-          status: 'Database'
-        },
-        {
-          id: 5,
           name: 'VS Code',
           imageUrl: 'https://code.visualstudio.com/assets/images/code-stable.png',
           status: 'Text Editor'
         },
         {
-          id: 6,
+          id: 5,
           name: 'Intelij IDEA',
           imageUrl: 'https://palcomtech.ac.id/wp-content/uploads/2024/02/IntelliJ-IDEA.png',
           status: 'Text Editor'
         },
         {
-          id: 7,
+          id: 6,
           name: 'Sublime Text',
           imageUrl: 'https://www.sublimehq.com/images/sublime_text.png',
           status: 'Text Editor'
         },
         {
-          id: 8,
+          id: 7,
           name: 'Notepad++',
           imageUrl: 'https://notepad-plus-plus.org/images/logo.svg',
           status: 'Text Editor'
         },
         {
-          id: 9,
+          id: 8,
           name: 'Balsamiq',
           imageUrl: 'https://i0.wp.com/makecrack.com/wp-content/uploads/2022/11/balsamiq.jpg',
           status: 'Mockup Editor'
         },
         {
-          id: 10,
+          id: 9,
           name: 'Figma',
           imageUrl: 'https://s3-alpha.figma.com/hub/file/1166690750/85f69649-5387-44c2-ba45-81ae13812e36-cover.png',
           status: 'UI & UX Editor'
         },
         {
-          id: 11,
+          id: 10,
           name: 'Dia Flowchart',
           imageUrl: 'https://www.fileeagle.com/data/2015/07/Dia-Diagram-Editor-48x48.png',
           status: 'Flowchart Editor'
+        },
+        {
+          id: 11,
+          name: 'Netbeans',
+          imageUrl: 'https://logodix.com/logo/1628150.png',
+          status: 'Text Editor'
         },
       ]
     };

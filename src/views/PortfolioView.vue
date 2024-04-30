@@ -10,23 +10,23 @@ export default {
           imageUrl: 'portfolio_v1',
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'VueJS 3, Tailwind',
-          github: 'null',
-          demo: 'null'
+          github: 'https://github.com/langgilang/portfolio_v1',
+          demo: 'https://gilang-portfolio-one.vercel.app/'
         },
         {
           id: 2,
           name: 'Industri Kapal Indonesia',
           imageUrl: 'ikishipyard',
-          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
+          status: 'A website that has a responsive display to make it easier for prospective customers to do shipbuilding or ship repairs.',
           tech: 'Codeigniter 3, Bootstrap',
           github: 'null',
-          demo: 'null'
+          demo: 'https://www.ikishipyard.co.id/'
         },
         {
           id: 3,
           name: 'Pelindo Marine Service',
           imageUrl: 'pelindomarine',
-          status: 'Sistem Informasi dan Teknologi Desa, a web application to assist village government work in administration, population data management, community services, etc.',
+          status: 'A website that provides information about ship port services which is the largest port operator in Indonesia.',
           tech: 'Codeigniter 3, Bootstrap',
           github: 'null',
           demo: 'null'
@@ -35,8 +35,7 @@ export default {
           id: 4,
           name: 'Company Profile SELECTA',
           imageUrl: 'selecta',
-          status: 'a web application used by village-owned enterprises at the sub-district level to make it easier for them in terms of accounting that is equipped with a microfinance balance.',
-          tech: 'Codeigniter 3, Bootstrap',
+          status: 'A website that provides information about the history of PT SELECTA, its activities and the latest news about the company.',
           github: 'null',
           demo: 'null'
         },
@@ -44,7 +43,7 @@ export default {
           id: 5,
           name: 'Eticket SELECTA',
           imageUrl: 'eticketselecta',
-          status: 'Sistem Percepatan Pelayanan Surat Elektronik, A web application to manage letters in the village.',
+          status: 'Web-based online ticket booking application. provides information on ticket prices and the latest promos from PT SELECTA.',
           tech: 'Codeigniter 3, Bootstrap',
           github: 'null',
           demo: 'null'
