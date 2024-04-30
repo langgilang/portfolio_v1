@@ -11,7 +11,7 @@ export default {
           status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
           tech: 'VueJS 3, Tailwind',
           github: 'https://github.com/langgilang/portfolio_v1',
-          demo: 'https://gilang-portfolio-one.vercel.app/'
+          demo: 'https://gilang-portfolio-v1.vercel.app/'
         },
         {
           id: 2,
