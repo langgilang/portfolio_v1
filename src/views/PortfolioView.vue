@@ -36,6 +36,7 @@ export default {
           name: 'Company Profile SELECTA',
           imageUrl: 'selecta',
           status: 'A website that provides information about the history of PT SELECTA, its activities and the latest news about the company.',
+          tech: 'Codeigniter 3, Bootstrap',
           github: 'null',
           demo: 'null'
         },
